@@ -1,0 +1,28 @@
+.box{
+  border: 2px solid black;
+  margin: 100px 40px 40px 40px;
+  border-radius: 8%;
+  text-align: center;
+  background: gray;
+}
+.in{
+  padding: 5px;
+}
+.email{
+  padding: 5px;
+  margin: 10px;
+  border-radius: 8px;
+}
+.name{
+  padding: 5px;
+  margin: 10px;
+  border-radius: 8px;
+}
+.sub{
+  padding: 5px;
+  margin: 10px;
+}
+body{
+  background: lightblue;
+  display: justify;
+}
